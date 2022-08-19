@@ -17,7 +17,7 @@ Basic Laravel crud with User Login , Register Authentiation.
 
 7.Import db file(database/test_db.sql) into your database (mysql,sql)
 
-8. Visit web url and type-> localhost/(project_folder_name) in your browser after running xampp.
+8.Visit web url and type-> localhost/(project_folder_name) in your browser after running xampp.
 
 # Screenshots :
 
