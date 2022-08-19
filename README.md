@@ -2,7 +2,7 @@
 
 Basic Laravel crud with User Login , Register Authentiation.
 
-Setup:
+# Setup:
 1.Clone the repo and cd into it
 
 2.In your terminal composer install
