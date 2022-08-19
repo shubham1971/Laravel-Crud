@@ -7,13 +7,17 @@ Basic Laravel crud with User Login , Register Authentiation.
 
 2.In your terminal composer install
 
-3.Rename or copy .env.example file to .env
+3.npm install
 
-4.Set your database credentials in your .env file
+4.php artisan key:generate(if required)
 
-5.Import db file(database/test_db.sql) into your database (mysql,sql)
+5.Rename or copy .env.example file to .env
 
-6.Visit localhost/(project_folder_name) in your browser after running xampp.
+6.Set your database credentials in your .env file
+
+7.Import db file(database/test_db.sql) into your database (mysql,sql)
+
+8. Visit web url and type-> localhost/(project_folder_name) in your browser after running xampp.
 
 # Screenshots :
 
