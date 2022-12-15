@@ -1,4 +1,4 @@
-# laravel-crud
+# e-SHOP Online ecommerce Store(laravel)
 
 Basic Laravel crud with User Login , Register Authentiation.
 
