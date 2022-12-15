@@ -22,8 +22,4 @@ Basic Laravel crud with User Login , Register Authentiation.
 # Screenshots :
 
 
-![front table](https://user-images.githubusercontent.com/92640408/185544283-4710e259-368e-4671-989d-869d60ce1960.png)
-
-![front form](https://user-images.githubusercontent.com/92640408/185545600-ce777e5f-a292-4104-87d8-31a4fcb849bd.png)
-
-![register](https://user-images.githubusercontent.com/92640408/185545870-4fd6bbd3-aa35-406e-9d2f-a1606bfe6463.png)
+<img width="960" alt="git1" src="https://user-images.githubusercontent.com/92640408/207857082-cde2d9ce-c76f-49aa-ae73-8bc6379a33de.png">
